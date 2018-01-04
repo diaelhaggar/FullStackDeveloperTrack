@@ -1,6 +1,6 @@
 groceries = {'milk','cheese','bread','spices','shampoo','bread'}
 groceries.add('Tomato')
-groceries.remove('milk')
+groceries.remove('skim milk')
 groceries.remove('cheese')
 groceries.clear()
 groceries.add('Tomato')
